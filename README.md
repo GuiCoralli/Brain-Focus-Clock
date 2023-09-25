@@ -4,9 +4,9 @@
 
 <p align="center">
 	  <img alt="Project status" src="https://img.shields.io/badge/Status-Finalizado-green">
-	  <img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/GuiCoralli/Brain-Focus-Clock-">
+	  <img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/GuiCoralli/Brain-Focus-Clock">
 	  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/GuiCoralli/Brain-Focus-Clock">
-	  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/GuiCoralli%1FBrain-Focus-Clock?style=social">
+	  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/GuiCoralli/Brain-Focus-Clock?style=social">
 </p>
 
 
