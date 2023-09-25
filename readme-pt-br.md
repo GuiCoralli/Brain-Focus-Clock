@@ -29,9 +29,9 @@
  ## Tradução 
  <p align="center">
    ·
-  <a href="https://github.com/GuiCoralli/Clash_of_Cars/blob/main/readme-pt-br.md"> Português
+  <a href="https://github.com/GuiCoralli/Brain-Focus-Clock/blob/main/readme-pt-br.md"> Português
   ·
-  <a href="https://github.com/GuiCoralli/Clash_of_Cars/blob/main/README.md"> English
+  <a href="https://github.com/GuiCoralli/Brain-Focus-Clock/blob/main/README.md"> English
   </a>
 
 ##
