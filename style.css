@@ -5,12 +5,12 @@
     margin: 0;
     box-sizing: border-box;
 
-    --fc-timer: #323238;
-    --bg-card: #f3e1e1;
-    --bg-cardHover: #b8e2ef;
-    --bg-cardSelected: #C9C9C9;
-    --bg-cardSelectedHover: #006483;
-    --bg-body: #f3c2c2ed;
+    --fc-timer: hsl(240, 6%, 21%);
+    --bg-card: hsl(0, 43%, 92%);
+    --bg-cardHover: hsl(194, 63%, 83%);
+    --bg-cardSelected: hsl(0, 0%, 79%);
+    --bg-cardSelectedHover: hsl(194, 100%, 26%);
+    --bg-body: hsla(0, 67%, 86%, 0.929);
 }
 
 .darkMode:root {
@@ -19,12 +19,12 @@
     margin: 0;
     box-sizing: border-box;
 
-    --fc-timer: #FFF;
-    --bg-card: #29292E;
-    --bg-cardHover: #39393f;
-    --bg-cardSelected: #0A3442;
-    --bg-cardSelectedHover: #0d4253;
-    --bg-body: #121214;
+    --fc-timer: hsl(0, 0%, 100%);
+    --bg-card: hsl(240, 6%, 17%);
+    --bg-cardHover: hsl(240, 5%, 24%);
+    --bg-cardSelected: hsl(195, 74%, 15%);
+    --bg-cardSelectedHover: hsl(195, 73%, 19%);
+    --bg-body: hsl(240, 5%, 7%);
 }
 
 .darkModeImg {

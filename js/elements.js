@@ -11,7 +11,7 @@ const btnRain = document.querySelector("#btnRain")
 const btnCoffeeShop = document.querySelector("#btnCoffeeShop")
 const btnFireplace = document.querySelector("#btnFireplace")
 const btnGym = document.querySelector("#btnGym")
-const btnLofi = document.querySelector("#Lofi")
+const btnLofi = document.querySelector("#btnLofi")
 
 const btnDarkMode = document.querySelector("#btnDarkMode")
 
